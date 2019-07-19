@@ -1807,7 +1807,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ffb652;
+  background: #ffdfff;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -1919,7 +1919,7 @@ pre .javascript .function {
   color: #87daff;
 }
 .footer {
-  font-size: 14px;
+  font-size: 16px;
   color: #999;
 }
 .footer img {
@@ -2879,12 +2879,13 @@ hr {
 .footer {
   margin-top: 80px;
   padding: 10px 0;
-  background: #f5f5f5;
   color: #666;
 }
 .footer-inner {
   margin: 0 auto;
-  text-align: left;
+  font-family: 'Comic Sans MS', sans-serif;
+  text-align: center;
+  color: #4c618f;
 }
 @media (max-width: 767px) {
   .footer-inner {
